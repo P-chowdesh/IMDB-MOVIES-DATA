@@ -19,9 +19,8 @@ Provide insights for better investment decisions  <br>
 
 ## Abount DataSet Overview :<br>
         
-        The dataset used in this project consists of two main tables: Movies and Directors. The Movies table includes key attributes such as movie title, budget, revenue, popularity, release date,<br>
-        vote average<br>(rating), and vote count. The Directors table contains information about director name, gender, and department. These two tables are connected using a common director ID to<br> 
-        enable combined analysis.<br>
-
-The dataset contains a total of 47 movies with a total budget of 10 billion and total revenue of 39 billion. This structured dataset allows analysis of movie performance, director impact, and overall industry<br> trends.<br>
+        The dataset used in this project consists of two main tables: Movies and Directors. The Movies table includes key attributes such as movie title, budget, revenue, popularity, release date, <br>
+        vote average<br>(rating), and vote count. The Directors table contains information about director name, gender, and department. These two tables are connected using a common director ID to <br> 
+        enable combined analysis.The dataset contains a total of 47 movies with a total budget of 10 billion and total revenue of 39 billion. This structured dataset allows analysis of movie performance,<br>
+        director impact, and overall industry<br> trends.<br>
 
