@@ -48,3 +48,20 @@ Overview: Description of the movie<br>
 Tagline: Tagline of the Movie<br>
 UID: Unique ID for Movie<br>
 Director ID: Director ID<br>
+
+## Taskes of SQL:- <br>
+Can you get all data about movies?  <br>
+How do you get all data about directors? <br>
+Check how many movies are present in IMDB. <br>
+Find these 3 directors: James Cameron ; Luc Besson ; John Woo <br>
+Find all directors with name starting with S. <br>
+Count female directors. <br>
+Find the name of the 10th first women directors? <br>
+What are the 3 most popular movies? <br>
+What are the 3 most bankable movies? <br>
+What is the most awarded average vote since the January 1st, 2000? <br>
+Which movie(s) were directed by Brenda Chapman? <br>
+Which director made the most movies? <br>
+Which director is the most bankable? <br>
+
+
