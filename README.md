@@ -96,7 +96,7 @@ strategies to optimize future decisions<br>
 ## Conclusion Insights:-<br>
         In conclusion, the analysis of the IMDB movies dataset provides valuable insights into the key factors that drive success in the movie industry.<br>
         The findings reveal that the industry is highly<br> hit-driven, where a small number of blockbuster movies and top-performing directors contribute significantly to total revenue. <br>
-        Despite a high overall return on investment, the analysis highlights that a larger budget does not always guarantee success, and some low-budget movies achieve exceptional performance,<br>
+        Despite a high overall return on investment, the analysis highlights that a larger budget does not always guarantee success, and some low-budget movies achieve exceptional performance <br>
         indicating the importance of efficient resource utilization. Additionally, there is a noticeable gap between critical success and commercial performance, as highly rated movies do not always<br>
         generate the highest revenue.<br>
            The study also identifies important areas for improvement, such as the need for better content quality, reduced dependency on a few directors, and increased diversity among filmmakers.<br>
