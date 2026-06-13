@@ -24,3 +24,27 @@ The dataset used in this project consists of two main tables: Movies and Directo
  enable combined analysis.The dataset contains a total of 47 movies with a total budget of 10 billion and total revenue of 39 billion. This structured dataset allows analysis of movie performance <br>
  director impact, and overall industry trends.<br>
 
+## Tables  Overview :-<br>
+
+Table Directors:<br>
+
+Name: Name of the Director<br>
+ID: Unique ID of the Directors<br>
+Gender: Gender of the Director→ 0/2=Male, 1=Female<br>
+Department: Department of the Directors.<br>
+
+Table Movies:<br>
+
+ID: Unique Id for Movies<br>
+Original title: Movie name<br>
+Budget: Budget of the movie<br>
+Popularity: Popularity of the Movie<br>
+Release Date: Release date for the movies<br>
+Revenue: Revenue collected movie<br>
+Title: Initial title of the movie<br>
+Vote Average: Average IMDB rating<br>
+Vote Count: Number of Vote the movie got<br>
+Overview: Description of the movie<br>
+Tagline: Tagline of the Movie<br>
+UID: Unique ID for Movie<br>
+Director ID: Director ID<br>
